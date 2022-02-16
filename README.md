@@ -3,8 +3,10 @@
 
 # Sesion 1
 1. Instalar Git
-2. Clonar repo de la clase:  git clone https://github.com/adsoftsito/labweb.git
-3. Probar conectividad con server de la clase: ssh -i key user@34.125.103.71
+2. Clonar repo de la clase:  
+   git clone https://github.com/adsoftsito/labweb.git
+4. Probar conectividad con server de la clase: 
+   ssh -i key user@34.125.103.71
 
 Propuesta de proyectos
 # [Sistema de recomendaciones](https://unipython.com/como-desarrollar-un-sistema-de-recomendacion-en-python/)
