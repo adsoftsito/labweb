@@ -7,7 +7,7 @@
    git clone https://github.com/adsoftsito/labweb.git
 4. Probar conectividad con server de la clase:  ssh -i key user@34.125.103.71
 5. Crear repositorio privado para tareas 
-6. Repaso: crear [Hello-World](https://github.com/adsoftsito/web/blob/main/w2/dockerlab2.pdf) con Docker
+6. Repaso: Crear [Hello-World](https://github.com/adsoftsito/web/blob/main/w2/dockerlab2.pdf) con Docker y subir index.html a repositorio
 
 Propuesta de proyectos
 # [Sistema de recomendaciones](https://unipython.com/como-desarrollar-un-sistema-de-recomendacion-en-python/)
