@@ -1,2 +1,4 @@
-# Repositorio oficial de la materia Laboratorio de desarrollo de aplicaciones Web	
+# Repositorio oficial - Laboratorio de desarrollo de aplicaciones Web	
 [Plan de estudios](https://samp.itesm.mx/Materias/VistaPreliminarMateria?clave=TC3052&lang=ES)
+[Lista Clase] (https://docs.google.com/spreadsheets/d/12UgUm95aptvAM8YauZtubOUSCxVOs6gMaKkr-nXQ9Ek/edit?usp=sharing)
+
