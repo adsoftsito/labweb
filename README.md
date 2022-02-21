@@ -8,13 +8,23 @@
 4. Probar conectividad con server de la clase:  ssh -i key user@34.125.103.71
 5. Crear repositorio privado para tareas 
 6. Intro a [docker](https://github.com/adsoftsito/web/blob/main/w1/dockerlab.pdf) 
-7. Repaso: Crear [Hello-World](https://github.com/adsoftsito/web/blob/main/w2/dockerlab2.pdf) con Docker y subir index.html a repositorio
 
 # Sesion 1 - Tareas
 1. Crear una cuenta en :  https://console.cloud.google.com/ y obtener credito de 300 USD
 2. Crear una maquina virtual con Linux Centos 8, con 4 gb en RAM, 2 Virtual CPUs y 20 gb de HD
 3. En VPS, instalar git
 4. Instalar Docker en base a este [tutorial](https://docs.docker.com/engine/install/centos/) 
+
+# Sesion 2
+1. Revisar rubrica [parcial 1]()
+1. Analizar diagrama [Git Branching Model](https://github.com/adsoftsito/apis/blob/master/w4/gitBranchingModel.pdf)
+2. Realizar [Git Branching Model Lab](https://github.com/adsoftsito/apis/blob/master/w4/gitbranching.pdf)
+
+
+# Sesion 2 - Tareas
+1. En VPS propio, realizar practica : [Hello-World](https://github.com/adsoftsito/web/blob/main/w2/dockerlab2.pdf)
+2. En repositorio de Git, crear carpeta t1, en t1.txt subir url de imagen nodejs (Punto 5) en docker hub
+3. Crear una pagina simple index.html y publicarla en un Contenedor Docker con Apache en el servidor Centos, montar docker en puerto asignado en excel, crear carpeta T2 y subir SS de la pagina
 
 
 Propuesta de proyectos
