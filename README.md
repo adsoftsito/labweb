@@ -19,13 +19,14 @@
 1. Revisar rubrica [parcial 1]()
 1. Analizar diagrama [Git Branching Model](https://github.com/adsoftsito/apis/blob/master/w4/gitBranchingModel.pdf)
 2. Realizar Configuracion inicial de proyecto [React Lab](https://github.com/adsoftsito/apis/blob/master/w5/tdd_ci.pdf) 
-3. Continuar con [Git Branching Model Lab](https://github.com/adsoftsito/apis/blob/master/w4/gitbranching.pdf) opcionalmente crear Login, New User, Shopping Cart 
+3. Aplicar [Git Branching Model Lab](https://github.com/adsoftsito/apis/blob/master/w4/gitbranching.pdf) a proyecto React Lab
 
 
 # Sesion 2 - Tareas
 1. En VPS propio, realizar practica : [Hello-World](https://github.com/adsoftsito/web/blob/main/w2/dockerlab2.pdf)
 2. En repositorio de Git, crear carpeta t1, en t1.txt subir url de imagen nodejs (Punto 5) en docker hub
 3. Crear una pagina simple index.html y publicarla en un Contenedor Docker con Apache en el servidor Centos, montar docker en puerto asignado en excel, crear carpeta T2 y subir SS de la pagina
+4. Con tu equipo repetir [React Lab](https://github.com/adsoftsito/apis/blob/master/w5/tdd_ci.pdf) con [Git Branching Model Lab](https://github.com/adsoftsito/apis/blob/master/w4/gitbranching.pdf) con los issues Landing Page, login, logout, NewUser, MainTemplate
 
 
 Propuesta de proyectos
