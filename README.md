@@ -18,7 +18,7 @@
 # Sesion 2
 1. Revisar rubrica [parcial 1]()
 1. Analizar diagrama [Git Branching Model](https://github.com/adsoftsito/apis/blob/master/w4/gitBranchingModel.pdf)
-2. Realizar [Git Branching Model Lab](https://github.com/adsoftsito/apis/blob/master/w4/gitbranching.pdf)
+2. Realizar [React Lab](https://github.com/adsoftsito/apis/blob/master/w5/tdd_ci.pdf) con Login, New User, Shopping Cart 
 
 
 # Sesion 2 - Tareas
