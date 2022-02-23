@@ -23,10 +23,10 @@
 
 
 # Sesion 2 - Tareas
-1. En VPS propio, realizar practica : [Hello-World](https://github.com/adsoftsito/web/blob/main/w2/dockerlab2.pdf)
-2. En repositorio de Git, crear carpeta t1, en t1.txt subir url de imagen nodejs (Punto 5) en docker hub
+1. En VPS propio, realizar practica : [Docker Lab 2](https://github.com/adsoftsito/web/blob/main/w2/dockerlab2.pdf)
+2. En repositorio de Git, crear carpeta T1, en t1.txt subir url de imagen nodejs (Punto 2) en docker hub
 3. Crear una pagina simple index.html y publicarla en un Contenedor Docker con Apache en el servidor Centos, montar docker en puerto asignado en excel, crear carpeta T2 y subir SS de la pagina
-4. Con tu equipo repetir [React Lab](https://github.com/adsoftsito/apis/blob/master/w5/tdd_ci.pdf) con [Git Branching Model Lab](https://github.com/adsoftsito/apis/blob/master/w4/gitbranching.pdf) con los issues Landing Page, login, logout, NewUser, MainTemplate
+4. Con tu equipo repetir [React Lab](https://github.com/adsoftsito/apis/blob/master/w5/tdd_ci.pdf) con [Git Branching Model Lab](https://github.com/adsoftsito/apis/blob/master/w4/gitbranching.pdf) con los issues Landing Page, login, logout, NewUser, MainTemplate, Crear carpeta t3 con url de proyecto
 
 
 Propuesta de proyectos
