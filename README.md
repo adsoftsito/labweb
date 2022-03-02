@@ -28,6 +28,11 @@
 3. Crear una pagina simple index.html y publicarla en un Contenedor Docker con Apache en el servidor Centos, montar docker en puerto asignado en excel, crear carpeta T2 y subir SS de la pagina
 4. Con tu equipo repetir [React Lab](https://github.com/adsoftsito/apis/blob/master/w5/tdd_ci.pdf) con [Git Branching Model Lab](https://github.com/adsoftsito/apis/blob/master/w4/gitbranching.pdf) con los issues Landing Page, login, logout, NewUser, MainTemplate, Crear carpeta t3 con url de proyecto
 
+# Sesion 3
+1. Terminar [Git Branching Model Lab](https://github.com/adsoftsito/apis/blob/master/w4/gitbranching.pdf) con React
+
+# Sesion 3 - Tareas
+1. Realizar [curso basico de React](https://www.udemy.com/course/react-js-para-principiantes-desde-cero-curso-gratuito/)
 
 Propuesta de proyectos
 # [Sistema de recomendaciones](https://unipython.com/como-desarrollar-un-sistema-de-recomendacion-en-python/)
