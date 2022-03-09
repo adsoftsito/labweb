@@ -36,7 +36,7 @@
 1. Realizar [curso basico de React](https://www.udemy.com/course/react-js-para-principiantes-desde-cero-curso-gratuito/)
 
 # Sesion 4
-1. Iniciar template de React con Graphql [Git Branching Model Lab](https://www.howtographql.com/react-apollo/1-getting-started/)
+1. Iniciar template de [React con Graphqll Lab](https://www.howtographql.com/react-apollo/1-getting-started/)
 
 
 
