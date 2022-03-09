@@ -31,8 +31,14 @@
 # Sesion 3
 1. Terminar [Git Branching Model Lab](https://github.com/adsoftsito/apis/blob/master/w4/gitbranching.pdf) con React
 
+
 # Sesion 3 - Tareas
 1. Realizar [curso basico de React](https://www.udemy.com/course/react-js-para-principiantes-desde-cero-curso-gratuito/)
+
+# Sesion 4
+1. Iniciar template de React con Graphql [Git Branching Model Lab](https://www.howtographql.com/react-apollo/1-getting-started/)
+
+
 
 Propuesta de proyectos
 # [Sistema de recomendaciones](https://unipython.com/como-desarrollar-un-sistema-de-recomendacion-en-python/)
