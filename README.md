@@ -16,7 +16,7 @@
 4. Instalar Docker en base a este [tutorial](https://docs.docker.com/engine/install/centos/) 
 
 # Sesion 2
-1. Revisar rubrica [parcial 1]()
+1. Revisar rubrica [parcial 1](https://github.com/adsoftsito/labweb/blob/main/rubrica_parcial1)
 1. Analizar diagrama [Git Branching Model](https://github.com/adsoftsito/apis/blob/master/w4/gitBranchingModel.pdf)
 2. Realizar Configuracion inicial de proyecto [React Lab](https://github.com/adsoftsito/apis/blob/master/w5/tdd_ci.pdf) 
 3. Aplicar [Git Branching Model Lab](https://github.com/adsoftsito/apis/blob/master/w4/gitbranching.pdf) a proyecto React Lab
