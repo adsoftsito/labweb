@@ -36,10 +36,10 @@
 1. Realizar [curso basico de React](https://www.udemy.com/course/react-js-para-principiantes-desde-cero-curso-gratuito/)
 
 # Sesion 4
-1. Iniciar template de [React con Graphqll Lab](https://www.howtographql.com/react-apollo/1-getting-started/)
+1. Iniciar template de [React con Graphql Lab](https://www.howtographql.com/react-apollo/1-getting-started/)
 
 # Sesion 5
-1. Continuar template de [React con Graphqll Lab](https://www.howtographql.com/react-apollo/1-getting-started/)
+1. Continuar template de [React con Graphql Lab](https://www.howtographql.com/react-apollo/1-getting-started/)
 2. Instalar [Python 3.7](https://tecadmin.net/install-python-3-7-on-centos/)
 3. Revisar [Crear Graphql API](https://www.howtographql.com/graphql-python/0-introduction/)
 
