@@ -42,7 +42,7 @@
 1. Continuar template de [React con Graphql Lab](https://www.howtographql.com/react-apollo/1-getting-started/)
 2. Instalar [Python 3.7](https://tecadmin.net/install-python-3-7-on-centos/)
 3. Instalar Postgresql
- - [Instalacion Centos 7](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-centos-7)
+ - [Instalacion Centos 8](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-centos-8)
  
  - [Habilitar acceso remoto](https://yallalabs.com/linux/how-to-enable-network-remote-access-to-postgresql-database-server/)
  
