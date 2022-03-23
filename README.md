@@ -41,7 +41,17 @@
 # Sesion 5
 1. Continuar template de [React con Graphql Lab](https://www.howtographql.com/react-apollo/1-getting-started/)
 2. Instalar [Python 3.7](https://tecadmin.net/install-python-3-7-on-centos/)
-3. Revisar [Crear Graphql API](https://www.howtographql.com/graphql-python/0-introduction/)
+3. Instalar Postgresql
+ - [Instalacion Centos 7](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-centos-7)
+ 
+ - [Habilitar acceso remoto](https://yallalabs.com/linux/how-to-enable-network-remote-access-to-postgresql-database-server/)
+ 
+ - Abrir puerto de postgres desde cloud-shell
+ 
+ > gcloud compute firewall-rules create postgres --allow tcp:5432
+ > gcloud compute firewall-rules
+ 
+5. Revisar [Crear Graphql API](https://www.howtographql.com/graphql-python/0-introduction/)
 
 
 Propuesta de proyectos
