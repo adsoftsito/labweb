@@ -48,8 +48,8 @@
  
  - Abrir puerto de postgres desde cloud-shell
  
- > gcloud compute firewall-rules create postgres --allow tcp:5432
- > gcloud compute firewall-rules
+ - gcloud compute firewall-rules create postgres --allow tcp:5432
+ - gcloud compute firewall-rules
  
 5. Revisar [Crear Graphql API](https://www.howtographql.com/graphql-python/0-introduction/)
 
