@@ -56,8 +56,8 @@
 6. Crear [Dockerfile](https://github.com/adsoftsito/hackernews-api/blob/master/Dockerfile)
 7. Crear [docker-compose.yml](https://github.com/adsoftsito/hackernews-api/blob/master/docker-compose.yml)
 8. Crear [.env](https://github.com/adsoftsito/adsoft_hackernews/blob/master/.env)
-9. Instalar [Dockercompose]()
-10. Correr: docker-compose up 
+9. Instalar [docker-compose](https://docs.docker.com/compose/install/)
+10. Correr: docker-compose up &
 Propuesta de proyectos
 # [Sistema de recomendaciones](https://unipython.com/como-desarrollar-un-sistema-de-recomendacion-en-python/)
 # [Chatbot para whats](https://www.twilio.com/blog/crear-un-chatbot-de-whatsapp-con-python-flask-y-twilio)
