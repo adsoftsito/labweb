@@ -1,0 +1,43 @@
+Rubrica proyecto final
+
+Tareas 20 %
+
+- Google Colab de Lab. Sistema de Recomendaciones ( Peliculas)
+- docker en servidor personal de Sistema de Recomendaciones
+
+
+Proyecto 80%
+
+
+Fecha: Pendiente 10:00 am
+
+
+1.- Administracion del proyecto (todos los issues cerrados) en proyectos de github con Kanban Automatizados, mostrar columnas con Reviews, Tareas cerradas, pendientes.
+       
+        Valor: 1-20 pts   
+
+
+2.- Front React terminado de acuerdo a issues planeados, debera ser publicado en 2 ambientes:
+       - Testing:    (branch release) en servidor de la clase (en usuario del lider del equipo)
+       - Produccion: (branch master) en servidor Linux CENTOS 7 propio del equipo ( debera ser instalado y configurado por el mismo equipo)
+
+        Valor: 1-20 pts
+
+
+
+3.- REST-API Graphql terminada en los 2 ambientes (Testing y producción) deberá tener:
+       - Controller protegidos por tokens
+       - Controller de libre acceso sin tokens
+
+        Valor: 1-20 pts
+
+
+4.- Docker sistema recomendaciones de su proyecto (con su tema especifico)
+
+   Valor: 1-20 pts   
+
+5.- Consumo desde React de la funcionalidad de Sistema de Recomendaciones
+
+	 Valor: 1-20 pts
+
+
